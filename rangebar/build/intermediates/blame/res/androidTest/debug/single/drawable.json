@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\adownload\\RangeBar_Test\\rangebar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\roundrect.xml",
+        "source": "D:\\adownload\\RangeBar_Test\\rangebar\\build\\intermediates\\bundles\\debug\\res\\drawable\\roundrect.xml"
+    },
+    {
+        "merged": "D:\\adownload\\RangeBar_Test\\rangebar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate.xml",
+        "source": "D:\\adownload\\RangeBar_Test\\rangebar\\build\\intermediates\\bundles\\debug\\res\\drawable\\rotate.xml"
+    },
+    {
+        "merged": "D:\\adownload\\material-range-bar-master\\RangeBar_Test\\rangebar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate.xml",
+        "source": "D:\\adownload\\material-range-bar-master\\RangeBar_Test\\rangebar\\build\\intermediates\\bundles\\debug\\res\\drawable\\rotate.xml"
+    },
+    {
+        "merged": "D:\\adownload\\material-range-bar-master\\RangeBar_Test\\rangebar\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\roundrect.xml",
+        "source": "D:\\adownload\\material-range-bar-master\\RangeBar_Test\\rangebar\\build\\intermediates\\bundles\\debug\\res\\drawable\\roundrect.xml"
+    }
+]

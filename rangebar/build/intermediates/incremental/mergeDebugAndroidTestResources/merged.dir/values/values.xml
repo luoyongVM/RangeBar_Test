@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RangeBar"><attr format="float" name="tickStart"/><attr format="float" name="tickEnd"/><attr format="float" name="tickInterval"/><attr format="dimension" name="tickHeight"/><attr format="color" name="tickColor"/><attr format="dimension" name="barWeight"/><attr format="reference|color" name="rangeBarColor"/><attr format="reference|color" name="textColor"/><attr format="reference|color" name="pinColor"/><attr format="dimension" name="selectorSize"/><attr format="dimension" name="pinPadding"/><attr format="dimension" name="pinMinFont"/><attr format="dimension" name="pinMaxFont"/><attr format="dimension" name="rangeBarPaddingBottom"/><attr format="reference|color" name="selectorColor"/><attr format="boolean" name="rangeBar"/><attr format="boolean" name="temporaryPins"/><attr format="dimension" name="connectingLineWeight"/><attr format="reference|color" name="connectingLineColor"/><attr format="dimension" name="pinRadius"/></declare-styleable>
+    <string name="app_name">RangeBar</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

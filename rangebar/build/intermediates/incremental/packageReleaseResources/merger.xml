@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\adownload\RangeBar_Test\rangebar\res"/><source path="D:\adownload\RangeBar_Test\rangebar\build\generated\res\rs\release"/><source path="D:\adownload\RangeBar_Test\rangebar\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="D:\adownload\RangeBar_Test\rangebar\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\adownload\RangeBar_Test\rangebar\res"><file name="rotate" path="D:\adownload\RangeBar_Test\rangebar\res\drawable\rotate.xml" qualifiers="" type="drawable"/><file name="roundrect" path="D:\adownload\RangeBar_Test\rangebar\res\drawable\roundrect.xml" qualifiers="" type="drawable"/><file path="D:\adownload\RangeBar_Test\rangebar\res\values\attrs.xml" qualifiers=""><declare-styleable name="RangeBar">
+        <attr format="float" name="tickStart"/>
+        <attr format="float" name="tickEnd"/>
+        <attr format="float" name="tickInterval"/>
+        <attr format="dimension" name="tickHeight"/>
+        <attr format="color" name="tickColor"/>
+        <attr format="dimension" name="barWeight"/>
+        <attr format="reference|color" name="rangeBarColor"/>
+        <attr format="reference|color" name="textColor"/>
+        <attr format="reference|color" name="pinColor"/>
+        <attr format="dimension" name="selectorSize"/>
+        <attr format="dimension" name="pinPadding"/>
+        <attr format="dimension" name="pinMinFont"/>
+        <attr format="dimension" name="pinMaxFont"/>
+        <attr format="dimension" name="rangeBarPaddingBottom"/>
+        <attr format="reference|color" name="selectorColor"/>
+        <attr format="boolean" name="rangeBar"/>
+        <attr format="boolean" name="temporaryPins"/>
+        <attr format="dimension" name="connectingLineWeight"/>
+        <attr format="reference|color" name="connectingLineColor"/>
+        <attr format="dimension" name="pinRadius"/>
+    </declare-styleable></file><file path="D:\adownload\RangeBar_Test\rangebar\res\values\strings.xml" qualifiers=""><string name="app_name">RangeBar</string></file><file path="D:\adownload\RangeBar_Test\rangebar\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="D:\adownload\RangeBar_Test\rangebar\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\adownload\RangeBar_Test\rangebar\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="D:\adownload\RangeBar_Test\rangebar\build\generated\res\rs\release"/><source path="D:\adownload\RangeBar_Test\rangebar\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="D:\adownload\RangeBar_Test\rangebar\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="RangeBar"><attr format="float" name="tickStart"/><attr format="float" name="tickEnd"/><attr format="float" name="tickInterval"/><attr format="dimension" name="tickHeight"/><attr format="color" name="tickColor"/><attr format="dimension" name="barWeight"/><attr format="reference|color" name="rangeBarColor"/><attr format="reference|color" name="textColor"/><attr format="reference|color" name="pinColor"/><attr format="dimension" name="selectorSize"/><attr format="dimension" name="pinPadding"/><attr format="dimension" name="pinMinFont"/><attr format="dimension" name="pinMaxFont"/><attr format="dimension" name="rangeBarPaddingBottom"/><attr format="reference|color" name="selectorColor"/><attr format="boolean" name="rangeBar"/><attr format="boolean" name="temporaryPins"/><attr format="dimension" name="connectingLineWeight"/><attr format="reference|color" name="connectingLineColor"/><attr format="dimension" name="pinRadius"/></declare-styleable></configuration></mergedItems></merger>

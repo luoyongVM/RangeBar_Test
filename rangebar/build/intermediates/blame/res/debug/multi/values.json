@@ -1,0 +1,134 @@
+[
+    {
+        "outputFile": "D:\\adownload\\RangeBar_Test\\rangebar\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 45,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "D:\\adownload\\RangeBar_Test\\rangebar\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 45,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 1368
+                },
+                "from": {
+                    "file": "D:\\adownload\\RangeBar_Test\\rangebar\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1373,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "D:\\adownload\\RangeBar_Test\\rangebar\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\adownload\\material-range-bar-master\\RangeBar_Test\\rangebar\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 45,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "D:\\adownload\\material-range-bar-master\\RangeBar_Test\\rangebar\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 45,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 1368
+                },
+                "from": {
+                    "file": "D:\\adownload\\material-range-bar-master\\RangeBar_Test\\rangebar\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1373,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "D:\\adownload\\material-range-bar-master\\RangeBar_Test\\rangebar\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
