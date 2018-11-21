@@ -50,7 +50,15 @@ rangebar.setFormatter(new IRangeBarFormatter() {
 
 How to Use
 =======
+## Method I
+**In your app build.gradle. Add the following lines**
 
+```
+	dependencies {
+	        implementation 'com.lzy.design:RangeBarLib:1.0.1'
+	}
+```
+## Method II
 **In your project build.gradle. Add the following lines**
 ```maven
 allprojects {
