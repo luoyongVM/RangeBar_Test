@@ -55,7 +55,7 @@ How to Use
 
 ```
 	dependencies {
-	        implementation 'com.lzy.design:RangeBarLib:1.0.1'
+	        implementation 'com.ly.design:RangeBarLib:1.0.1'
 	}
 ```
 ## Method II
@@ -81,7 +81,7 @@ allprojects {
 **if you are already using android support library inside your project and run into multiple version issues related to android support library then modify the gradle path like this**
 ```
 dependencies {
-    compile ('com.github.luoyongVM:RangeBar_Test:Tag') {
+    implementation ('com.github.luoyongVM:RangeBar_Test:Tag') {
             exclude module: 'support-compat'
     }
 }
